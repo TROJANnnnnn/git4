@@ -15,4 +15,4 @@ print(B)
 
 # adding two matrix
 print("Addition of two matrix")
-print(np.add(A B))
+print(np.add(A, B))
